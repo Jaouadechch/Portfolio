@@ -4,7 +4,7 @@ import { Project } from "../../models/project";
 export const PROJECTS: Project[] = [
 
  {
-    project: "SSO using CAS",
+    project: "Parapharmacie",
     stack: ["Java", "Shell"],
     description: "Implementing a web site of parapharmacie management",
     website: "#",
