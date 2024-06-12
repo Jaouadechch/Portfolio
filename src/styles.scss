@@ -1,0 +1,19 @@
+@import "bootstrap/scss/bootstrap";
+
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  
+}
+@media (max-width: 768px) {
+  section {
+    margin-bottom: 30px; /* Adjust as needed for smaller screens */
+    padding: 15px; /* Adjust as needed for smaller screens */
+  }
+}
+
+
+
