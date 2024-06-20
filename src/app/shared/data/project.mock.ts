@@ -29,7 +29,7 @@ export const PROJECTS: Project[] = [
     description: "Portfolio using Angular 17",
     website: "https://badreddinezaim.netlify.app",
     report: "",
-    github: "https://github.com/zaim001/angular_portfolio",
+    github: "https://github.com/Jaouadechch/Portfolio",
     image:"https://s3-us-west-2.amazonaws.com/s.cdpn.io/326643/Sample%20Logo.png",
     status: "Live"
   },
